@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./CheckoutForm.css"
+import "./CheckOutForm.css"
 
 export default function CheckOutForm({onSubmit}){
     const [formData,setFormData]=useState({
