@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { useNavigate } from "react-router-dom"
 import { useCart } from "../Context/CartContext"
-import CheckOutForm from "../components/CheckoutForm"
+import CheckOutForm from "../components/CheckOutForm"
 import OrderConfirmation from "../components/OrderConfirmation"
 import "./CheckOut.css"
 
